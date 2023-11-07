@@ -33,7 +33,3 @@ Contributions are welcome, especially those that enhance the educational value o
 ## License
 
 This project is released under the MIT license. Use it as you see fit for educational or personal projects.
-
----
-
-You are currently on the free plan which has a limited number of requests. To increase your quota, you can check the available plans [here](https://c7d59216ee8ec59bda5e51ffc17a994d.auth.portal-pluginlab.ai/pricing).
