@@ -2,8 +2,8 @@
 
 public class DestroyOutOfBounds : MonoBehaviour
 {
-    private float topBound = 30;
-    private float lowerBound = -10;
+    public float topBound = 30;
+    public float lowerBound = -10;
 
     void Update()
     {
